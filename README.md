@@ -25,14 +25,3 @@ Bu proje, ebebek ana sayfasında çalışan ve ürünleri yatay bir carousel (ka
 
 ![Carousel Çıktısı]
 file:///home/ssen/Pictures/Screenshots/Screenshot%20from%202025-05-10%2008-48-51.png
-
-
-## Notlar
-- Kodun tamamı tek bir dosyadadır ve başka bir şeye ihtiyaç yoktur.
-- Kodun içinde bol bol Türkçe yorum satırı vardır.
-- Sadece ana sayfada çalışır, başka bir sayfada çalıştırırsanız konsolda `wrong page` yazar.
-- Ürünler ve favoriler localStorage'da tutulur, sayfa yenilense bile kaybolmaz.
-
----
-
-Herhangi bir sorunuz olursa bana ulaşabilirsiniz. 
